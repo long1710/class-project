@@ -1,0 +1,11 @@
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\obj\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).csprojAssemblyReference.cache
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\obj\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).csproj.CoreCompileInputs.cache
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\obj\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).AssemblyInfoInputs.cache
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\obj\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).AssemblyInfo.cs
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\bin\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).deps.json
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\bin\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).runtimeconfig.json
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\bin\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).runtimeconfig.dev.json
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\bin\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).dll
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\bin\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).pdb
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\obj\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).dll
+C:\Users\Loli slayer\source\repos\minesweeper (CS 208- big quiz)\obj\Debug\netcoreapp2.2\minesweeper (CS 208- big quiz).pdb
